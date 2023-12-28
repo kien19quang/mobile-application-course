@@ -2,10 +2,19 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
-      <entry key="Tuan1MainActivity">
+      <entry key="Tuan211MainActivity">
         <State />
       </entry>
-      <entry key="Tuan1MainActivity (1)">
+      <entry key="Tuan22MainActivity">
+        <State />
+      </entry>
+      <entry key="Tuan2_KotlinMainActivity">
+        <State />
+      </entry>
+      <entry key="Tuan2_Kotlin_ListViewMainActivity">
+        <State />
+      </entry>
+      <entry key="Tuan2_Kotlin_SecondMainActivity (1)">
         <State />
       </entry>
       <entry key="app">
